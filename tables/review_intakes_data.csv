@@ -1,8 +1,0 @@
-dataset,metric,value
-intakes,n_filas,124120
-intakes,n_columnas,12
-intakes,filas_duplicadas,19
-intakes,null_animal_id,0
-intakes,unico_animal_id,110926
-intakes,repeatidos_animal_ids,23297
-intakes,datetime_monthyear_filas_iguales,124120

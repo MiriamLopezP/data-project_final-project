@@ -1,4 +1,0 @@
-quantile,intake_age_days,outcome_age_days,length_of_stay_days
-percentil_25,60.00,90.00,1.38
-mediana,365.00,365.00,5.12
-percentil_75,730.00,730.00,15.23

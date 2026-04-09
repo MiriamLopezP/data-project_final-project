@@ -1,8 +1,0 @@
-dataset,metric,value
-outcomes,n_filas,124491
-outcomes,n_columnas,12
-outcomes,filas_duplicadas,17
-outcomes,null_animal_id,0
-outcomes,unico_animal_id,111309
-outcomes,repeatidos_animal_ids,23294
-outcomes,datetime_monthyear_filas_iguales,124491

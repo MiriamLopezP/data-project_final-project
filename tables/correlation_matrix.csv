@@ -1,4 +1,0 @@
-variable,intake_age_days,outcome_age_days,length_of_stay_days
-intake_age_days,1.00,1.00,0.04
-outcome_age_days,1.00,1.00,0.06
-length_of_stay_days,0.04,0.06,1.00
