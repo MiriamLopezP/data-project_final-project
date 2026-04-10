@@ -42,7 +42,7 @@ Los objetivos principales del proyecto han sido los siguientes:
 │   └── processed/
 │       ├── intakes_clean.csv
 │       ├── outcomes_clean.csv
-│       └── animal_center_final.csv
+│       └── animal_center_final.csv (fichero muy pesado, como se genera al ejecutar el codigo.py no lo he subido exploicitamente)
 ├── src/
 │   └── codigo.py
 ├── tables/
@@ -60,10 +60,11 @@ Los objetivos principales del proyecto han sido los siguientes:
 │   
 │   
 ├── excel/
-│   └── Animal_Center_Final_Dashboard.xlsx
+│   └── Animal_Center_Final_Dashboard.xlsx (Debido al tamaño del fichero no puedo subirlo a Git. Proporciono Link para acceder al fichero (1))
 └── README.md
 ```
-
+(1): https://docs.google.com/spreadsheets/d/12hxB55uVacD1szGyEaM5iphYhR7aYndc/edit?usp=sharing&ouid=102668593917602111134&rtpof=true&sd=true
+**Descargar archivo y abrirlo en Microsoft Excel para una correecta visualización.
 ---
 
 ## Requisitos
